@@ -17,4 +17,8 @@ export default createGlobalStyle`
   background-color: #284048;
   min-height: 100vh;
 }
+
+button {
+  cursor: pointer;
+}
 `;
